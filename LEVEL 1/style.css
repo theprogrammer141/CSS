@@ -1,0 +1,58 @@
+/* h1{
+    color: red;
+}
+
+p{
+    color:blue;
+}
+
+button{
+    color: chocolate;
+    background-color: blue;
+}
+
+body{
+    background-color: white;
+    /* background-color: rgb(255,0,0);
+    background-color: #ffff00;
+}
+*/
+
+/*UNIVERSAL+ELEMENT SELECTORS
+*{
+    color: red;
+}
+
+h1{
+    color: pink;
+}
+
+p{
+    color: blue;
+}
+
+button{
+    color:brown;
+} */
+
+/*ID SELECTORS 
+#headingone{
+    color: blue;
+}
+
+#headingtwo
+{
+    color: aqua;
+}
+
+#headingthree
+{
+    color:brown;
+} */
+
+/*CLASS SELECTOR
+.myclass{
+    color: red;
+}
+*/
+
