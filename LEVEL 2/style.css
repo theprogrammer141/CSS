@@ -1,0 +1,22 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border-width: 2px;
+    border-color: black;
+    border-style: groove;
+    border-radius: 15px;
+    /* border-radius: 50%; */
+    text-align: center;
+}
+/* 
+h1{
+    height: 50px;
+    width: 115px;
+    background-color: aquamarine;
+    /* border-width: 2px;
+    border-color: blue;
+    border-style: dotted; 
+    border: 2px blue dotted;
+}
+*/
