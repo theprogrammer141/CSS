@@ -1,13 +1,15 @@
-div{
+#one{
     height: 100px;
     width: 100px;
     background-color: pink;
     border-width: 2px;
     border-color: black;
     border-style: groove;
-    border-radius: 15px;
+    /* border-radius: 15px; */
     /* border-radius: 50%; */
-    text-align: center;
+    /* text-align: center; */
+    padding: 25px;
+    margin: 25px;
 }
 /* 
 h1{
