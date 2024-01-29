@@ -18,3 +18,36 @@
     /* width: 100vw; 
 } */
 
+div{
+    position: static;
+    height: 100px;
+    width: 100px;
+    background-color: cyan;
+    display: inline-block;
+    border:5px solid black;
+}
+
+#box1{
+    /* top:20px */
+    background-color: red;
+    /* background-image: url("image.jpg");
+    background-size: cover; */
+}
+
+#box2{
+    position: relative;
+    /* top:20px; */
+    /* left:-50px; */
+    /* left: 5px; */
+    /* z-index: -1; */
+    background-color: green;
+}
+
+#box3{
+    /* position: absolute; */
+    top:20px;
+}
+
+#box4{
+    background-color: black;
+}
