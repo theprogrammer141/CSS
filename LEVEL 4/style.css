@@ -3,14 +3,14 @@ body{
 }
 
 div{
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
     display: inline-block;
     border: 2px solid black;
 }
 
 #container{
-    width: 800px;
+    width: 1000px;
     height: 600px;
     display: flex;
 
@@ -19,7 +19,7 @@ div{
     /* justify-content: center; */
     /* justify-content: space-evenly; */
     /* justify-content: space-around; */
-    justify-content: space-between;
+    /* justify-content: space-between; */
     
     /* flex-direction: row; */
     /* flex-direction: row-reverse; */
@@ -41,10 +41,14 @@ div{
 
 #box1{
     background-color: aqua;
+    /* flex-grow: 1; */
 }
 
 #box2{
     background-color: pink;
+    /* align-self: flex-end; */
+    /* flex-grow: 2; */
+    /* flex-shrink: 2; */
 }
 
 #box3{
@@ -53,10 +57,10 @@ div{
 
 #box4{
     background-color: indianred;
-    width: 400px;
+    /* width: 400px; */
 }
 
 #box5{
     background-color: slateblue;
-    width: 400px;
+    /* width: 400px; */
 }
