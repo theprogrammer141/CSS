@@ -1,0 +1,22 @@
+.loader{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border-top: 5px;
+    border-style: solid;
+    background-color: aqua;
+    /* animation-name: spinAnimate; */
+    animation-duration: 0.25s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 0.5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes spinAnimate{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
